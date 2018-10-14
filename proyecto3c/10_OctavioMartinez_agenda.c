@@ -1,4 +1,4 @@
-//10 Martínez Osorio Octavio
+ //10 Martínez Osorio Octavio
 
 #include<stdio.h>
 #include<stdlib.h>
